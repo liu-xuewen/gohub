@@ -2,7 +2,7 @@
 package requests
 
 import (
-	"gohub/pkg/response"
+	"github.com/liu-xuewen/gohub/pkg/response"
 
 	"github.com/gin-gonic/gin"
 	"github.com/thedevsaddam/govalidator"

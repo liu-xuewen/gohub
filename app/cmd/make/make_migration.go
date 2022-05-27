@@ -2,8 +2,8 @@ package make
 
 import (
 	"fmt"
-	"gohub/pkg/app"
-	"gohub/pkg/console"
+	"github.com/liu-xuewen/gohub/pkg/app"
+	"github.com/liu-xuewen/gohub/pkg/console"
 
 	"github.com/spf13/cobra"
 )

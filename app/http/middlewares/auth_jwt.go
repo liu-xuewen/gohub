@@ -3,10 +3,10 @@ package middlewares
 
 import (
 	"fmt"
-	"gohub/app/models/user"
-	"gohub/pkg/config"
-	"gohub/pkg/jwt"
-	"gohub/pkg/response"
+	"github.com/liu-xuewen/gohub/app/models/user"
+	"github.com/liu-xuewen/gohub/pkg/config"
+	"github.com/liu-xuewen/gohub/pkg/jwt"
+	"github.com/liu-xuewen/gohub/pkg/response"
 
 	"github.com/gin-gonic/gin"
 )

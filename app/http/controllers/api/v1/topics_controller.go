@@ -1,11 +1,11 @@
 package v1
 
 import (
-	"gohub/app/models/topic"
-	"gohub/app/policies"
-	"gohub/app/requests"
-	"gohub/pkg/auth"
-	"gohub/pkg/response"
+	"github.com/liu-xuewen/gohub/app/models/topic"
+	"github.com/liu-xuewen/gohub/app/policies"
+	"github.com/liu-xuewen/gohub/app/requests"
+	"github.com/liu-xuewen/gohub/pkg/auth"
+	"github.com/liu-xuewen/gohub/pkg/response"
 
 	"github.com/gin-gonic/gin"
 )

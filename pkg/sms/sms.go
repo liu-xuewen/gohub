@@ -2,7 +2,7 @@
 package sms
 
 import (
-	"gohub/pkg/config"
+	"github.com/liu-xuewen/gohub/pkg/config"
 	"sync"
 )
 

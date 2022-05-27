@@ -4,7 +4,7 @@ package logger
 import (
 	"encoding/json"
 	"fmt"
-	"gohub/pkg/app"
+	"github.com/liu-xuewen/gohub/pkg/app"
 	"os"
 	"strings"
 	"time"

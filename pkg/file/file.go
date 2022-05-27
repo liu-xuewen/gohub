@@ -3,9 +3,9 @@ package file
 
 import (
 	"fmt"
-	"gohub/pkg/app"
-	"gohub/pkg/auth"
-	"gohub/pkg/helpers"
+	"github.com/liu-xuewen/gohub/pkg/app"
+	"github.com/liu-xuewen/gohub/pkg/auth"
+	"github.com/liu-xuewen/gohub/pkg/helpers"
 	"io/ioutil"
 	"mime/multipart"
 	"os"

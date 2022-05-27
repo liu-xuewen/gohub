@@ -2,12 +2,12 @@ package main
 
 import (
 	"fmt"
-	"gohub/app/cmd"
-	"gohub/app/cmd/make"
-	"gohub/bootstrap"
-	btsConfig "gohub/config"
-	"gohub/pkg/config"
-	"gohub/pkg/console"
+	"github.com/liu-xuewen/gohub/app/cmd"
+	"github.com/liu-xuewen/gohub/app/cmd/make"
+	"github.com/liu-xuewen/gohub/bootstrap"
+	btsConfig "github.com/liu-xuewen/gohub/config"
+	"github.com/liu-xuewen/gohub/pkg/config"
+	"github.com/liu-xuewen/gohub/pkg/console"
 	"os"
 
 	"github.com/spf13/cobra"

@@ -1,12 +1,12 @@
 package v1
 
 import (
-	"gohub/app/models/user"
-	"gohub/app/requests"
-	"gohub/pkg/auth"
-	"gohub/pkg/config"
-	"gohub/pkg/file"
-	"gohub/pkg/response"
+	"github.com/liu-xuewen/gohub/app/models/user"
+	"github.com/liu-xuewen/gohub/app/requests"
+	"github.com/liu-xuewen/gohub/pkg/auth"
+	"github.com/liu-xuewen/gohub/pkg/config"
+	"github.com/liu-xuewen/gohub/pkg/file"
+	"github.com/liu-xuewen/gohub/pkg/response"
 
 	"github.com/gin-gonic/gin"
 )

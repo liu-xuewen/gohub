@@ -1,8 +1,8 @@
 package v1
 
 import (
-	"gohub/app/models/link"
-	"gohub/pkg/response"
+	"github.com/liu-xuewen/gohub/app/models/link"
+	"github.com/liu-xuewen/gohub/pkg/response"
 
 	"github.com/gin-gonic/gin"
 )

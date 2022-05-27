@@ -3,13 +3,13 @@ package verifycode
 
 import (
 	"fmt"
-	"gohub/pkg/app"
-	"gohub/pkg/config"
-	"gohub/pkg/helpers"
-	"gohub/pkg/logger"
-	"gohub/pkg/mail"
-	"gohub/pkg/redis"
-	"gohub/pkg/sms"
+	"github.com/liu-xuewen/gohub/pkg/app"
+	"github.com/liu-xuewen/gohub/pkg/config"
+	"github.com/liu-xuewen/gohub/pkg/helpers"
+	"github.com/liu-xuewen/gohub/pkg/logger"
+	"github.com/liu-xuewen/gohub/pkg/mail"
+	"github.com/liu-xuewen/gohub/pkg/redis"
+	"github.com/liu-xuewen/gohub/pkg/sms"
 	"strings"
 	"sync"
 )

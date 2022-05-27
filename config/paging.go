@@ -1,6 +1,6 @@
 package config
 
-import "gohub/pkg/config"
+import "github.com/liu-xuewen/gohub/pkg/config"
 
 func init() {
 	config.Add("paging", func() map[string]interface{} {

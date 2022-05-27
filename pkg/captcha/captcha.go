@@ -2,9 +2,9 @@
 package captcha
 
 import (
-	"gohub/pkg/app"
-	"gohub/pkg/config"
-	"gohub/pkg/redis"
+	"github.com/liu-xuewen/gohub/pkg/app"
+	"github.com/liu-xuewen/gohub/pkg/config"
+	"github.com/liu-xuewen/gohub/pkg/redis"
 	"sync"
 
 	"github.com/mojocn/base64Captcha"

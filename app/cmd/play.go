@@ -1,8 +1,8 @@
 package cmd
 
 import (
-	"gohub/pkg/console"
-	"gohub/pkg/redis"
+	"github.com/liu-xuewen/gohub/pkg/console"
+	"github.com/liu-xuewen/gohub/pkg/redis"
 	"time"
 
 	"github.com/spf13/cobra"

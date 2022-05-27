@@ -2,7 +2,7 @@ package migrations
 
 import (
 	"database/sql"
-	"gohub/pkg/migrate"
+	"github.com/liu-xuewen/gohub/pkg/migrate"
 
 	"gorm.io/gorm"
 )

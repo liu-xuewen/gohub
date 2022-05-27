@@ -1,10 +1,10 @@
 package cmd
 
 import (
-	"gohub/bootstrap"
-	"gohub/pkg/config"
-	"gohub/pkg/console"
-	"gohub/pkg/logger"
+	"github.com/liu-xuewen/gohub/bootstrap"
+	"github.com/liu-xuewen/gohub/pkg/config"
+	"github.com/liu-xuewen/gohub/pkg/console"
+	"github.com/liu-xuewen/gohub/pkg/logger"
 
 	"github.com/gin-gonic/gin"
 	"github.com/spf13/cobra"

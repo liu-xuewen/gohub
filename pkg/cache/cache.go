@@ -3,7 +3,7 @@ package cache
 
 import (
 	"encoding/json"
-	"gohub/pkg/logger"
+	"github.com/liu-xuewen/gohub/pkg/logger"
 	"sync"
 	"time"
 

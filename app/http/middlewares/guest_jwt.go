@@ -1,8 +1,8 @@
 package middlewares
 
 import (
-	"gohub/pkg/jwt"
-	"gohub/pkg/response"
+	"github.com/liu-xuewen/gohub/pkg/jwt"
+	"github.com/liu-xuewen/gohub/pkg/response"
 
 	"github.com/gin-gonic/gin"
 )

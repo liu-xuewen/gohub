@@ -4,9 +4,9 @@ package make
 import (
 	"embed"
 	"fmt"
-	"gohub/pkg/console"
-	"gohub/pkg/file"
-	"gohub/pkg/str"
+	"github.com/liu-xuewen/gohub/pkg/console"
+	"github.com/liu-xuewen/gohub/pkg/file"
+	"github.com/liu-xuewen/gohub/pkg/str"
 	"strings"
 
 	"github.com/iancoleman/strcase"

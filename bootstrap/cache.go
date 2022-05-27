@@ -3,8 +3,8 @@ package bootstrap
 
 import (
 	"fmt"
-	"gohub/pkg/cache"
-	"gohub/pkg/config"
+	"github.com/liu-xuewen/gohub/pkg/cache"
+	"github.com/liu-xuewen/gohub/pkg/config"
 )
 
 // SetupCache 缓存

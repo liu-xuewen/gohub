@@ -1,8 +1,8 @@
 package middlewares
 
 import (
-	"gohub/pkg/logger"
-	"gohub/pkg/response"
+	"github.com/liu-xuewen/gohub/pkg/logger"
+	"github.com/liu-xuewen/gohub/pkg/response"
 	"net"
 	"net/http/httputil"
 	"os"

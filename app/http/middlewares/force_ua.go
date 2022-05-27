@@ -3,7 +3,7 @@ package middlewares
 
 import (
 	"errors"
-	"gohub/pkg/response"
+	"github.com/liu-xuewen/gohub/pkg/response"
 
 	"github.com/gin-gonic/gin"
 )

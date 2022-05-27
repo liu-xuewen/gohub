@@ -2,8 +2,8 @@ package migrations
 
 import (
     "database/sql"
-    "gohub/app/models"
-    "gohub/pkg/migrate"
+    "github.com/liu-xuewen/gohub/app/models"
+    "github.com/liu-xuewen/gohub/pkg/migrate"
 
     "gorm.io/gorm"
 )

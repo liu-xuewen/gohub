@@ -1,11 +1,11 @@
 package link
 
 import (
-	"gohub/pkg/app"
-	"gohub/pkg/cache"
-	"gohub/pkg/database"
-	"gohub/pkg/helpers"
-	"gohub/pkg/paginator"
+	"github.com/liu-xuewen/gohub/pkg/app"
+	"github.com/liu-xuewen/gohub/pkg/cache"
+	"github.com/liu-xuewen/gohub/pkg/database"
+	"github.com/liu-xuewen/gohub/pkg/helpers"
+	"github.com/liu-xuewen/gohub/pkg/paginator"
 	"time"
 
 	"github.com/gin-gonic/gin"

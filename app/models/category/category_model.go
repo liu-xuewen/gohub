@@ -2,8 +2,8 @@
 package category
 
 import (
-	"gohub/app/models"
-	"gohub/pkg/database"
+	"github.com/liu-xuewen/gohub/app/models"
+	"github.com/liu-xuewen/gohub/pkg/database"
 )
 
 type Category struct {

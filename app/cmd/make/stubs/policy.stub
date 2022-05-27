@@ -1,8 +1,8 @@
 package policies
 
 import (
-    "gohub/app/models/{{PackageName}}"
-    "gohub/pkg/auth"
+    "github.com/liu-xuewen/gohub/app/models/{{PackageName}}"
+    "github.com/liu-xuewen/gohub/pkg/auth"
 
     "github.com/gin-gonic/gin"
 )
